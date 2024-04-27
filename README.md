@@ -2,6 +2,8 @@
 
 [Aniruddha Lappathi Poster](https://github.com/anirudlappathi/SimGNNwithKnowledgeGraph/blob/main/simGNN.jpg)
 
+![simGNN-min](https://github.com/anirudlappathi/SimGNNwithKnowledgeGraph/assets/55041200/fbb16a8d-f488-4a15-b8c6-b95c6ae907f1)
+
 ## Getting Started
 
 Download links:
