@@ -1,6 +1,6 @@
 # kb/KnowledgeBaseGeneration
 
-!([Aniruddha Lappathi Poster](https://github.com/anirudlappathi/SimGNNwithKnowledgeGraph/blob/main/simGNN.jpg))
+[Aniruddha Lappathi Poster](https://github.com/anirudlappathi/SimGNNwithKnowledgeGraph/blob/main/simGNN.jpg)
 
 ## Getting Started
 
